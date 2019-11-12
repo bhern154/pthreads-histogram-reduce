@@ -1,4 +1,4 @@
-# Problema do histograma em MPI
+# Problema do histograma com pthreads
 
 Compilando usando `make`:
 
